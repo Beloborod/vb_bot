@@ -25,5 +25,5 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Beloborod/vb_tg"
-Issues = "https://github.com/Beloborod/vb_tg/issues"
+Homepage = "https://github.com/Beloborod/vb_bot"
+Issues = "https://github.com/Beloborod/vb_bot/issues"

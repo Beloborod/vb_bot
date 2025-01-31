@@ -1,0 +1,1 @@
+Mongo powered telegram bot, based on pyTelegramBotAPI
